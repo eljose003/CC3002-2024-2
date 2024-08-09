@@ -6,6 +6,6 @@ package statictying
 
 object HelloWorld {
   @main def foo: Unit = {
-    println("hello world")
+    println("change the world, my final message, goodbye")
   }
 }
